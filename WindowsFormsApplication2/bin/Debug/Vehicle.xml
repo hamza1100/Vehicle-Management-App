@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Vehicle>
+    <Number_Plate>PHZ-888</Number_Plate>
+    <Make>Honda</Make>
+    <Model>City</Model>
+    <Year>2008</Year>
+    <Type>Economy</Type>
+    <Accessory>Cold storage</Accessory>
+    <Accessory>Navigation system</Accessory>
+    <Accessory>Rear-view cameras</Accessory>
+    <Accessory>Leather seats</Accessory>
+    <Driver>Toby</Driver>
+    <Ratings>4</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>VGQ-141</Number_Plate>
+    <Make>Suzuki</Make>
+    <Model>Mehran</Model>
+    <Year>2001</Year>
+    <Type>Business</Type>
+    <Accessory>Cold storage</Accessory>
+    <Accessory>proximity sensors</Accessory>
+    <Accessory>Leather seats</Accessory>
+    <Driver>Alex</Driver>
+    <Ratings>2.0</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>VZH-403</Number_Plate>
+    <Make>Audi</Make>
+    <Model>A7</Model>
+    <Year>2008</Year>
+    <Type>Economy</Type>
+    <Accessory>proximity sensors</Accessory>
+    <Accessory>Navigation system</Accessory>
+    <Accessory>Navigation system</Accessory>
+    <Driver>Addison</Driver>
+    <Ratings>5</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>CAC-175</Number_Plate>
+    <Make>Toyota</Make>
+    <Model>Corolla GLI</Model>
+    <Year>2010</Year>
+    <Type>Business</Type>
+    <Accessory>Cup-holders</Accessory>
+    <Driver>Aubree</Driver>
+    <Ratings>1</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>LYJ-273</Number_Plate>
+    <Make>Nissan</Make>
+    <Model>Juke</Model>
+    <Year>2014</Year>
+    <Type>Economy</Type>
+    <Accessory>Cup-holders</Accessory>
+    <Accessory>Fog lights</Accessory>
+    <Accessory>Sun/Moon Roof</Accessory>
+    <Accessory>Rear airconditioner</Accessory>
+    <Driver>Ann</Driver>
+    <Ratings>4</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>WLS-422</Number_Plate>
+    <Make>Subaru</Make>
+    <Model>Impreza</Model>
+    <Year>2009</Year>
+    <Type>Large Capacity</Type>
+    <Accessory>Navigation system</Accessory>
+    <Accessory>TV</Accessory>
+    <Accessory>Fog lights</Accessory>
+    <Driver>Efrain</Driver>
+    <Ratings>5</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>BCH-184</Number_Plate>
+    <Make>Honda</Make>
+    <Model>Accord CL9</Model>
+    <Year>2007</Year>
+    <Type>Large Capacity</Type>
+    <Accessory>Fog lights</Accessory>
+    <Driver>John</Driver>
+    <Ratings>3</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>NJT-679</Number_Plate>
+    <Make>Acura</Make>
+    <Model>NSX</Model>
+    <Year>2017</Year>
+    <Type>Luxury/VIP</Type>
+    <Accessory>Sun/Moon Roof</Accessory>
+    <Accessory>Cold storage</Accessory>
+    <Accessory>Cup-holders</Accessory>
+    <Accessory>TV</Accessory>
+    <Accessory>proximity sensors</Accessory>
+    <Driver>Aubri</Driver>
+    <Ratings>2</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>PDU-200</Number_Plate>
+    <Make>Nissan</Make>
+    <Model>Skyline</Model>
+    <Year>2010</Year>
+    <Type>Large Capacity</Type>
+    <Accessory>Rear-view cameras</Accessory>
+    <Accessory>proximity sensors</Accessory>
+    <Accessory>Fog lights</Accessory>
+    <Driver>Damien</Driver>
+    <Ratings>2</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>PDT-121</Number_Plate>
+    <Make>Toyota </Make>
+    <Model>Prius</Model>
+    <Year>2012</Year>
+    <Type>Business</Type>
+    <Accessory>Navigation system</Accessory>
+    <Driver>Conner</Driver>
+    <Ratings>5</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>MGQ-645</Number_Plate>
+    <Make>Honda</Make>
+    <Model>Civic</Model>
+    <Year>2007</Year>
+    <Type>Business</Type>
+    <Accessory>Cold storage</Accessory>
+    <Accessory>proximity sensors</Accessory>
+    <Driver>Yuliana</Driver>
+    <Ratings>3</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>UDB-629</Number_Plate>
+    <Make>Lamborghini</Make>
+    <Model>Gallardo</Model>
+    <Year>2005</Year>
+    <Type>Economy</Type>
+    <Accessory>Cold storage</Accessory>
+    <Accessory>Leather seats</Accessory>
+    <Accessory>Cold storage</Accessory>
+    <Accessory>Cold storage</Accessory>
+    <Accessory>Fog lights</Accessory>
+    <Driver>Damon</Driver>
+    <Ratings>1</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>JXJ-328</Number_Plate>
+    <Make>Mazda</Make>
+    <Model>Rx-7</Model>
+    <Year>2005</Year>
+    <Type>Luxury/VIP</Type>
+    <Accessory>TV</Accessory>
+    <Accessory>proximity sensors</Accessory>
+    <Accessory>Cold storage</Accessory>
+    <Accessory>proximity sensors</Accessory>
+    <Accessory>Rear-view cameras</Accessory>
+    <Driver>Lorenzo</Driver>
+    <Ratings>2</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>ZOG-943</Number_Plate>
+    <Make>Nissan</Make>
+    <Model>350z</Model>
+    <Year>2004</Year>
+    <Type>Economy</Type>
+    <Accessory>Cold storage</Accessory>
+    <Accessory>Rear-view cameras</Accessory>
+    <Accessory>Rear airconditioner</Accessory>
+    <Accessory>Cup-holders</Accessory>
+    <Accessory>Sun/Moon Roof</Accessory>
+    <Driver>Anabelle</Driver>
+    <Ratings>4</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>FZK-275</Number_Plate>
+    <Make>Suzuki</Make>
+    <Model>Mehran</Model>
+    <Year>2006</Year>
+    <Type>Large Capacity</Type>
+    <Accessory>proximity sensors</Accessory>
+    <Accessory>Cold storage</Accessory>
+    <Accessory>Fog lights</Accessory>
+    <Driver>Alex</Driver>
+    <Ratings>2</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>ECT-724</Number_Plate>
+    <Make>Toyota</Make>
+    <Model>Camry Hybrid</Model>
+    <Year>2003</Year>
+    <Type>Luxury/VIP</Type>
+    <Accessory>Cold storage</Accessory>
+    <Driver>Ishaan</Driver>
+    <Ratings>3</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>TKT-391</Number_Plate>
+    <Make>Mazda</Make>
+    <Model>Rx-8</Model>
+    <Year>2014</Year>
+    <Type>Large Capacity</Type>
+    <Accessory>Fog lights</Accessory>
+    <Accessory>Rear-view cameras</Accessory>
+    <Accessory>TV</Accessory>
+    <Accessory>Fog lights</Accessory>
+    <Driver>Keyon</Driver>
+    <Ratings>3</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>KSU-897</Number_Plate>
+    <Make>Ferrari</Make>
+    <Model>Enzo</Model>
+    <Year>2006</Year>
+    <Type>Large Capacity</Type>
+    <Accessory>Rear-view cameras</Accessory>
+    <Accessory>Rear airconditioner</Accessory>
+    <Accessory>proximity sensors</Accessory>
+    <Driver>Aiden</Driver>
+    <Ratings>2</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>KQJ-114</Number_Plate>
+    <Make>Suzuki</Make>
+    <Model>Ciaz</Model>
+    <Year>2002</Year>
+    <Type>Business</Type>
+    <Accessory>Rear-view cameras</Accessory>
+    <Accessory>Cup-holders</Accessory>
+    <Accessory>Sun/Moon Roof</Accessory>
+    <Driver>Talha</Driver>
+    <Ratings>4.5</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>WEZ-810</Number_Plate>
+    <Make>Lamborghini</Make>
+    <Model>Murcielago</Model>
+    <Year>2006</Year>
+    <Type>Economy</Type>
+    <Accessory>proximity sensors</Accessory>
+    <Accessory>Cold storage</Accessory>
+    <Accessory>Cup-holders</Accessory>
+    <Accessory>proximity sensors</Accessory>
+    <Driver>Mathias</Driver>
+    <Ratings>1</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>GTX-980</Number_Plate>
+    <Make>Mercedes</Make>
+    <Model>SLG225</Model>
+    <Year>2013</Year>
+    <Type>Luxury/VIP</Type>
+    <Accessory>Sun/Moon Roof</Accessory>
+    <Driver>Raheel</Driver>
+    <Ratings>3.2</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>GTI-950</Number_Plate>
+    <Make>Mazda</Make>
+    <Model>RX-8</Model>
+    <Year>2005</Year>
+    <Type>Luxury/VIP</Type>
+    <Accessory>Fog lights</Accessory>
+    <Driver>Imran Khan</Driver>
+    <Ratings>4.5</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>AHD-341</Number_Plate>
+    <Make>Honda</Make>
+    <Model>Turbo</Model>
+    <Year>2016</Year>
+    <Type>Large Capacity</Type>
+    <Accessory>TV</Accessory>
+    <Driver>Kashif</Driver>
+    <Ratings>3.8</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>XYZ-124</Number_Plate>
+    <Make>Toyota</Make>
+    <Model>AQUA</Model>
+    <Year>2015</Year>
+    <Type>Luxury/VIP</Type>
+    <Accessory>Rear airconditioner</Accessory>
+    <Driver>Farhan</Driver>
+    <Ratings>4.3</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>APT-218</Number_Plate>
+    <Make>Nissan</Make>
+    <Model>350Z</Model>
+    <Year>2016</Year>
+    <Type>Luxury/VIP</Type>
+    <Accessory>proximity sensors</Accessory>
+    <Driver>kashan</Driver>
+    <Ratings>5.0</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>AST-248</Number_Plate>
+    <Make>Toyota</Make>
+    <Model>Aqua</Model>
+    <Year>2017</Year>
+    <Type>Luxury/VIP</Type>
+    <Accessory>Navigation system</Accessory>
+    <Driver>Paul</Driver>
+    <Ratings>4</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>ASF-483</Number_Plate>
+    <Make>BMW</Make>
+    <Model>E5</Model>
+    <Year>2008</Year>
+    <Type>Luxury/VIP</Type>
+    <Accessory>Navigation system</Accessory>
+    <Driver>fahad</Driver>
+    <Ratings>4</Ratings>
+  </Vehicle>
+  <Vehicle>
+    <Number_Plate>GHQ-115</Number_Plate>
+    <Make>Suzuki</Make>
+    <Model>Vitara</Model>
+    <Year>2015</Year>
+    <Type>Large Capacity</Type>
+    <Accessory>Fog lights</Accessory>
+    <Driver>Zuhaid</Driver>
+    <Ratings>3.6</Ratings>
+  </Vehicle>
+</root>
