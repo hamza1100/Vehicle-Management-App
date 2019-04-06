@@ -3,7 +3,7 @@
 # How to run the code
 1- Clone the repository using `git clone https://github.com/hamza1100/Vehicle-Management-App.git`
 
-2- Open the project in *Visual Studio*
+2- Open the project in `*Visual Studio*`
 
 3- Run the Project.
 
@@ -17,7 +17,7 @@
 
 4- Open WindowsFormsApplication2.exe Executable.
 
-#About App
+# About App
 
 - Track Vehicles and drivers assigned to those vehicles
 
