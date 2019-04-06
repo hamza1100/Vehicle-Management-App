@@ -30,10 +30,6 @@ namespace WindowsFormsApplication2
                 obj.AddVehicle(plateBox.Text, MakeBox.Text, ModelBox.Text, YearBox.Text.ToString(), TypeBox.Text, AccessoryBox.SelectedItem.ToString());
 
             }
-            /* string no_plate = plateBox.Text;
-       * MessageBox.Show(no_plate);
-       */
-
             catch(Exception )
             {
                 MessageBox.Show("Please Fill All Fields","Empty Box Error");

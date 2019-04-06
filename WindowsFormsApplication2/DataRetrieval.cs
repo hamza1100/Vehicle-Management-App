@@ -31,22 +31,5 @@ namespace WindowsFormsApplication2
         {
             return vehicle_object.Retreive_Driver_Name();
         }
-
- 
-
-    /*    internal List<string> Get_Car_Make(string make)
-        {
-            return vehicle_object.Retrieve_Car_Make(make);
-        }
-
-     /*   internal List<string> Get_Car_Year()
-        {
-            return vehicle_object.Retrive_Car_Year();
-        }
-
-        internal List<string> Get_Driver_Ratings()
-        {
-            return vehicle_object.Retrive_Driver_Ratings();
-        }*/
     }
 }
